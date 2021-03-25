@@ -4,7 +4,7 @@ public class myclass {
        int z = 6;
        int m = 0;
        char l = 36.3;
-       shelly and morr hamalcot
+       char mor;
     }
     }
 }
